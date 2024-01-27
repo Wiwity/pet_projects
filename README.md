@@ -13,7 +13,3 @@
 ## PersonClassifier
 #### In this dataset, I created a model that recognizes 5 AI figures. 
 #### You can use the model to identify other individuals in the number you need.
----------------------------------------------
-## Email spam classifier
-#### Trained a Naive Bayes classifier model on the data.
-#### Made a page on Flask to allow the user to enter text and determine if the email is spam.
